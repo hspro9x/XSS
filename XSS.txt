@@ -1,0 +1,2 @@
+alert('Change background!!!');
+document.body.style.background="url('https://nld.mediacdn.vn/zoom/700_438/2015/anonymous-1447907195159.jpg')";
